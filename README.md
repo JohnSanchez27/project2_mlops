@@ -1,4 +1,4 @@
-# Taller: Entrenamiento e inferencia de ML usando Airflow y MLFlow
+# Taller: Entrenamiento e inferencia de ML usando Airflow y MLFlow 
 
 sudo chown -R 50000:0 ./logs  # Asegura que el directorio tiene los permisos correctos
 sudo chmod -R 755 ./logs      # Permite que el contenedor pueda leer y escribir en el directorio
